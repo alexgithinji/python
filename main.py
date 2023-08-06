@@ -7,5 +7,6 @@ if i<90:
     print("Haiwezii")
 
 else:
+
     print("Sawaa")
 
